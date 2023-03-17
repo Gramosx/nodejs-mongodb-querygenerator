@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-mongodb-querygenerator",
+  "version": "1.0.0",
+  "description": "Creating Custom Query for Mongodb for Complex frontend task..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gramosx/nodejs-mongodb-querygenerator.git"
+  },
+  "author": "Govindram Solanki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gramosx/nodejs-mongodb-querygenerator/issues"
+  },
+  "homepage": "https://github.com/Gramosx/nodejs-mongodb-querygenerator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
